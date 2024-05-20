@@ -14,7 +14,10 @@ character display:(with navigation)
 
 ![image](https://github.com/VIJAYRUR/assignment-frontend/assets/78963023/cebd4b02-c1d6-4706-b4e6-de713a424d5e)
 
-
 searchbar functionality:
 
 ![image](https://github.com/VIJAYRUR/assignment-frontend/assets/78963023/ca274521-989a-404c-a264-d570ebb95387)
+
+for invalid searches:
+
+![image](https://github.com/VIJAYRUR/assignment-frontend/assets/78963023/3df261a3-856f-4178-bd3e-9c4e1cbba758)
